@@ -1,0 +1,20 @@
+What is the average lifespan of a domestic cat?|5-8 years|10-15 years|20-25 years|30+ years|1
+What is a group of cats called?|A clowder|A herd|A flock|A pod|0
+Which organ do cats use to taste smells?|Tongue|Nose|Jacobson's organ|Whiskers|2
+What is the most common eye color in cats?|Green|Blue|Brown|Amber|3
+How many toes do most cats have?|16|18|20|22|1
+What does it mean when a cat kneads?|They're stretching|They're hungry|They're marking territory|They're feeling content|3
+Which of these is toxic to cats?|Milk|Chocolate|Carrots|Rice|1
+Why do cats purr?|To express happiness|To heal themselves|Both of the above|Neither of the above|2
+How high can cats generally jump compared to their body length?|1x|3x|5x|7x|2
+What is unique about cat whiskers?|They help in balancing|They are used for navigation|They are sensitive to touch|All of the above|3
+What sound do cats make when they are happy?|Bark|Purr|Roar|Whistle|1
+What do cats usually land on when they fall?|Back|Tail|Feet|Side|2
+Which part of a cat body is unique, like a human fingerprint?|Their nose|Their tail|Their whiskers|Their ears|0
+What is a group of kittens called?|Litter|Herd|Pack|Troop|0
+Why do cats scratch furniture?|To sharpen their claws|To annoy their owners|To play hide and seek|To attract other cats|0
+What do cats often love sitting in?|Bowls|Boxes|Shoes|Closets|1
+What is the best way to keep a cat happy indoors?|Give them lots of baths|Leave them alone all day|Provide toys and scratching posts|Only feed them once a day|2
+What does tail movement of a cat usually indicate?|Their hunger level|Their size|Their age|Their mood|3
+Which of the following is a sign of a happy cat?|Tail puffed up|Ears flattened|Slow blinking|Loud growling|2
+What does it mean when a cat held its tail straight up?|They are scared|They are relaxed and confident|They are angry|They are sick|1
